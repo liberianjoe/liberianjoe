@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Timothy T. Joe alias liberianjoe
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Full Stack Development & Animation
 - 📫 How to reach me @joeliberian@gmail.com
 
 <!---
